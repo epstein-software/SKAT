@@ -1,19 +1,9 @@
 
-<header class="entry-header">
 
 # SKAT
 
-</header>
-
-<div class="entry-content">
-
 **Test for association between a set of rare (and common) variants and continuous/dichotomous phenotypes using kernel machine methods **
 
-SKAT is a SNP-set (e.g., a gene or a region) level test for association between a set of rare (or common) variants and dichotomous or quantitative phenotypes, SKAT aggregates individual score test statistics of SNPs in a SNP set  and efficiently computes SNP-set level p-values, e.g. a gene or a region level p-value, while adjusting for covariates, such as principal components to account for population stratification. SKAT also allows for power/sample size calculations for designing for sequence association studies.
-
-**User Group:**  
-
-Please join in the [SKAT/MetaSKAT Google Group](https://groups.google.com/forum/#!forum/skat_slee) to ask / discuss / comment about SKAT/MetaSKAT.
 
 <nav id="site-left-nav" class="left-navigation" role="navigation" aria-label="Section Menu">
 
@@ -24,8 +14,14 @@ Please join in the [SKAT/MetaSKAT Google Group](https://groups.google.com/forum/
 *   [MetaSKAT](https://www.hsph.harvard.edu/skat/metaskat/)
 
 </div>
-
 </nav>
+
+SKAT is a SNP-set (e.g., a gene or a region) level test for association between a set of rare (or common) variants and dichotomous or quantitative phenotypes, SKAT aggregates individual score test statistics of SNPs in a SNP set  and efficiently computes SNP-set level p-values, e.g. a gene or a region level p-value, while adjusting for covariates, such as principal components to account for population stratification. SKAT also allows for power/sample size calculations for designing for sequence association studies.
+
+**User Group:**  
+
+Please join in the [SKAT/MetaSKAT Google Group](https://groups.google.com/forum/#!forum/skat_slee) to ask / discuss / comment about SKAT/MetaSKAT.
+
 
 **References:**
 
